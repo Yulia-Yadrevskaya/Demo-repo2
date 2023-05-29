@@ -1,4 +1,4 @@
-# Demo 2
+# My portfolio
 
 In this repository I keep some samples of my test artifacts such as checklists, mindmaps and just right here I'll place some links to my bug reports created in Youtrack:
 
