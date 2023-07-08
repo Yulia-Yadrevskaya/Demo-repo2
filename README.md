@@ -1,6 +1,6 @@
 # My portfolio
 
-In this repository I keep some samples of my test artifacts such as checklists, mindmaps and just right here I'll place some links to my bug reports created in Youtrack:
+In this repository I keep some samples of my test artifacts such as checklists, mindmaps, autotests and right here I'll place some links to my bug reports created in Youtrack:
 
 - [Testing interface layout, logic and form validation](https://yuliayadrevskayaqa54a.youtrack.cloud/tag/%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%202-3)
 - [Testing mobile and API](https://yuliayadrevskayaqa54a.youtrack.cloud/tag/%D1%81%D0%BF%D1%80%D0%B8%D0%BD%D1%82%203-4)
